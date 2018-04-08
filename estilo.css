@@ -82,7 +82,7 @@ video{
 	background-image:url('media/dupla-01.jpg');
 	background-position:top right;
 	background-repeat:no-repeat;
-	background-size:auto 100%;
+  background-size:auto 100%;
 }
 .primera h4{padding: 2% 40% 1% 2%;}
 
